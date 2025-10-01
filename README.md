@@ -1,6 +1,6 @@
 # Predicting Box Office Revenue from Early Rotten Tomatoes and IMDb User Ratings
 
-**Overview:**
+**Overview:**.
 
 This project aims to develop a predictive model for estimating a film's opening weekend box office revenue based on early aggregated user ratings from Rotten Tomatoes and IMDb.  By leveraging these readily available data points, the model seeks to improve studio budgeting and marketing resource allocation strategies. The analysis involves data cleaning, exploratory data analysis (EDA), feature engineering, model selection, training, and evaluation.  The final model provides a prediction of opening weekend revenue given early user ratings.
 

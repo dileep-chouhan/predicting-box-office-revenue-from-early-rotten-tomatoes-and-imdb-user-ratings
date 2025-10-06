@@ -1,4 +1,4 @@
-# Predicting Box Office Revenue from Early Rotten Tomatoes and IMDb User Ratings
+# Predicting Box Office Revenue from Early Rotten Tomatoes and IMDb User Ratings.
 
 **Overview:**
 
